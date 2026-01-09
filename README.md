@@ -1,4 +1,17 @@
-# 📞 RingRing
+# RingRing
+
+```
+      _____  _               _____           _ 
+     |  __ \(_)             / ____|         | |
+     | |  | |_ _ __ ___   | (___  _   _ ___| |_ ___ _ __ ___
+     | |  | | | '_ ` _ \   \___ \| | | / __| __/ _ \ '_ ` _ \
+     | |__| | | | | | | |  ____) | |_| \__ \ ||  __/ | | | | |
+     |_____/|_|_| |_| |_| |_____/ \__, |___/\__\___|_| |_| |_|
+                                  __/ |
+                                 |___/
+```
+
+**Minimal Swift CLI + MCP server that lets Claude call you on the phone.**
 
 **Minimal Swift CLI + MCP server that lets Claude call you on the phone.**
 
